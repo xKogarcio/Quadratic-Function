@@ -1,6 +1,4 @@
-# PL
-
-# Funkcja kwadratowa
+# Funkcja kwadratowa [PL]
 
 Program przedstawiający automatycznie różne własności i właściwości funkcji kwadratowej. Wystarczy podać trzy wartości, a aplikacja wszystko obliczy za Ciebie.
 
@@ -29,9 +27,7 @@ Licencja — patrz plik [LICENSE.md](LICENSE.md).
 > GitHub [@xKogarcio](https://github.com/xKogarcio) &nbsp;&middot;&nbsp;
 > Twitter [@xKogarcio](https://twitter.com/xKogarcio)
 
-# EN
-
-# Quadratic function
+# Quadratic function [EN]
 
 A program that automatically presents various properties and properties of a quadratic function. Just enter three values ​​and the application will calculate everything for you.
 

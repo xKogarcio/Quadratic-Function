@@ -14,7 +14,7 @@ $ git clone https://github.com/xKogarcio/Quadratic-Function
 ## Autor
 
   - **Marcin Dobrzyński** - *README.md* -
-    [xKogarcio](https://github.com/xKogarcio)
+    [@xKogarcio](https://github.com/xKogarcio)
     
 ## Licencja
 
@@ -22,10 +22,6 @@ Ten projekt jest objęty licencją [MIT](LICENSE.md)
 Licencja — patrz plik [LICENSE.md](LICENSE.md).
 
 ---
-
-> Portfolio [dobrzynskim.pl](https://dobrzynskim.pl/) &nbsp;&middot;&nbsp;
-> GitHub [@xKogarcio](https://github.com/xKogarcio) &nbsp;&middot;&nbsp;
-> Twitter [@xKogarcio](https://twitter.com/xKogarcio)
 
 # Quadratic function [EN]
 
@@ -43,7 +39,7 @@ $ git clone https://github.com/xKogarcio/Quadratic-Function
 ## Author
 
   - **Marcin Dobrzyński** - *README.md* -
-    [xKogarcio](https://github.com/xKogarcio)
+    [@xKogarcio](https://github.com/xKogarcio)
     
 ## License
 
